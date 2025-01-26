@@ -1,6 +1,7 @@
 header {
     background-color: rgb(246, 221, 246);
     color: rgb(117, 13, 55);
+    display: flex;
     margin: 1rem;
     padding: 2rem;
 
@@ -16,7 +17,12 @@ main {
     padding: 2rem;
 }
 
-section.butchart {
 
+footer {
+    background-color: rgb(246, 221, 246);
+    color: rgb(117, 13, 55);
+    display: flex;
+    margin: 1rem;
+    padding: 2rem;
 }
 
