@@ -4,7 +4,10 @@ header {
     display: flex;
     margin: 1rem;
     padding: 2rem;
-
+    font-family: "Playwrite IN", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
     
 }
 
@@ -15,6 +18,7 @@ main {
     gap: 1rem;
     margin: 1rem;
     padding: 2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
@@ -24,5 +28,6 @@ footer {
     display: flex;
     margin: 1rem;
     padding: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
