@@ -25,9 +25,9 @@ main {
 footer {
     background-color: rgb(246, 221, 246);
     color: rgb(117, 13, 55);
-    display: flex;
     margin: 1rem;
     padding: 2rem;
+    text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
